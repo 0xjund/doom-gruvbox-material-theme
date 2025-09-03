@@ -189,7 +189,7 @@ Defaults to \"material\""
    (doc-comments   (doom-darken (if doom-gruvbox-material-brighter-comments green green) 0.15))
    (constants      violet)
    (functions      cyan)
-   (keywords       (doom-darken dark-green 0.25))
+   (keywords       red)
    (methods        cyan)
    (operators      blue)
    (type           orange)
